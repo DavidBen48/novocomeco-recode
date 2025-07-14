@@ -1,0 +1,4 @@
+com\saas\backend\service\UsuarioService.class
+com\saas\backend\controller\UsuarioController.class
+com\saas\backend\model\Usuario.class
+com\saas\backend\App.class
