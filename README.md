@@ -66,7 +66,7 @@ git clone https://github.com/seu-usuario/novocomeco-saas.git
 cd novocomeco-saas
 ```
 
-s### 2. Configuração do Supabase
+### 2. Configuração do Supabase
 
 1. Acesse o [Supabase](https://supabase.com)
 2. Crie um novo projeto
